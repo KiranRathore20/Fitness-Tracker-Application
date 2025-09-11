@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b507493a-54dd-4291-809a-e406384af54e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/fitness-backend/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-backend/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/activity-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/activity-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/ai-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/ai-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/user-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/fitness-backend/configserver/src/main/resources/config/user-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/authConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/components/ActivityDetail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/components/ActivityForm.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/components/ActivityList.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/services/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/store/authSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/src/store/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fitness-backend/fitness-app-frontend/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fitness-backend" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="32YQQSYhnFGbVSEuayjGRkwlMpf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b507493a-54dd-4291-809a-e406384af54e" name="Changes" comment="" />
+      <created>1757595014921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757595014921</updated>
+    </task>
+    <servers />
+  </component>
+</project>
