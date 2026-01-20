@@ -49,7 +49,6 @@ Build the project:
 
 mvn clean install -DskipTests
 
-
 Run the backend:
 
 mvn spring-boot:run
@@ -65,32 +64,8 @@ Install dependencies:
 
 npm install
 
-
 Start the frontend:
-
 npm start
-
-🔐 Environment Variables
-Frontend .env
-
-Create a .env file inside the frontend folder:
-
-REACT_APP_API_BASE_URL=http://localhost:8080
-REACT_APP_KEYCLOAK_URL=http://localhost:8081
-REACT_APP_GEMINI_API_KEY=<YOUR_GEMINI_API_KEY>
-
-Backend application.yml (or .env)
-
-Add or update these values:
-
-spring.data.mongodb.uri=mongodb://localhost:27017/fitness
-spring.rabbitmq.host=localhost
-
-keycloak.auth-server-url=http://localhost:8081
-keycloak.realm=your-realm
-keycloak.resource=your-client-id
-
-gemini.api.key=<YOUR_GEMINI_API_KEY>
 
 🧱 Architecture Overview
  ┌────────────────────────────────────────────────────────────┐
